@@ -1,0 +1,10 @@
+{
+  "name": "Trackora - Enterprise IT Asset Manager",
+  "description": "Commercial-grade IT asset management platform designed for Android handhelds and enterprise web, featuring barcode scanning, digital signature handovers, hardware lifecycle tracking, and physical audit workflows.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
